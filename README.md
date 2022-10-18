@@ -1,6 +1,6 @@
 ## Hi, i am Samuel Sampaio! 👋
 
-### Hava a look on my presentation!
+### Have a look on my presentation!
 [![aboutme](https://img.shields.io/website?label=MyPresentation.com&style=for-the-badge&url=https://samuelmagalhaes.github.io/mini-portfolio/)](https://samuelmagalhaes.github.io/mini-portfolio/)
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelMagalhaes&show_icons=true&theme=radical)
